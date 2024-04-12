@@ -1,7 +1,1 @@
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+### Project - Zelfrijdende auto met sensoren
