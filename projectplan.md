@@ -1,7 +1,8 @@
 # ***Project - Zelfrijdende Auto Met Sensoren***
 ### **Zelfrijdende Auto**
 In dit project gaan wij proberen om een auto te bouwen, die zelf detecteert wanneer het te dicht op een muur rijdt. Om het doel realistisch te houden gaan wij hoogstwaarschijnlijk ervoor kiezen om de auto alleen voor en achter te laten rijden.
-_______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
 ## *Human resources*
 ### - Mick: Productowner
 Mick is de productowner, hij is de leider en zorgt voor her overzicht wat betreft samenwerken onder het groepje, regelt dat de scope duidelijk in oog blijft en regelt het klantengesprek en dergelijke.
@@ -11,3 +12,7 @@ Valentijn is de beheerder, hij regelt ervoor dat alle uren correct genoteerd wor
 Vigo is de developer, hij heeft de meeste controle wat betreft de bouw en het programmeren van de auto, en is verantwoordelijk voor het leveren van het eindproduct.
 ### - Jamie: Tester
 Jamie is de tester, hij helpt in de eerste periode van het project de developer met het bouwen en programmeren. In de tweede periode zal hij scannen voor bugs en fouten in de code, waarop de developer en hij later kunnen verbeteren.
+______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________
+## *Scope*
+Wat wij willen bereiken in deze periode is om in ieder geval een auto te bouwen met werkende onderdelen.  
