@@ -2,7 +2,7 @@
 ### **Zelfrijdende Auto**
 In dit project gaan wij proberen om een auto te bouwen, die zelf detecteert wanneer het te dicht op een muur rijdt. Om het doel realistisch te houden gaan wij hoogstwaarschijnlijk ervoor kiezen om de auto alleen voor en achter te laten rijden.
 _______________________________________________________________________________________________________________________________________________________________________
-## *Human resources*
+# *Human resources*
 ## - Mick: Productowner
 Mick is de productowner, hij is de leider en zorgt voor her overzicht wat betreft samenwerken onder het groepje, regelt dat de scope duidelijk in oog blijft en regelt het klantengesprek en dergelijke.
 ## - Valentijn: Beheerder
