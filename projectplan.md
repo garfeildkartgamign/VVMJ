@@ -15,4 +15,4 @@ Jamie is de tester, hij helpt in de eerste periode van het project de developer 
 ______________________________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 ## *Scope*
-Wat wij willen bereiken in deze periode is om in ieder geval een auto te bouwen met werkende onderdelen.  
+Wat wij willen bereiken in deze periode is om in ieder geval een auto te bouwen met werkende onderdelen. We willen het graag als extra voor elkaar krijgen om sensoren op de auto te installeren, waardoor het zelf kan zien wanneer het te dicht bij een object komt. Dit kan in theorie van alle 4 de kanten geregeld worden, waardoor de auto volledig zelf kan rijden zonder een muur of iets dergelijks aan te raken.
